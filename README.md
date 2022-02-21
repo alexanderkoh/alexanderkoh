@@ -13,11 +13,6 @@
 
 #### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [SQLAlchemy is a Better Way to Run Queries](https://hackernoon.com/sqlalchemy-is-a-better-way-to-run-queries?source=rss)
-- [Last Remaining COVID Restriction in England Could be Gone in Weeks](https://hackernoon.com/last-remaining-covid-restriction-in-england-could-be-gone-in-weeks?source=rss)
-- [How Useful are Certificates from Coursera, edX, and Udemy?](https://hackernoon.com/how-useful-are-certificates-from-coursera-edx-and-udemy?source=rss)
-- [Building Links for Your Business: 4 Expert Tips](https://hackernoon.com/building-links-for-your-business-4-expert-tips?source=rss)
-- [Why Outsourcing Core Business Functions Can Be Dangerous](https://hackernoon.com/why-outsourcing-core-business-functions-can-be-dangerous?source=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
