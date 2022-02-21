@@ -13,6 +13,11 @@
 
 #### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [5 Innovative NFT Projects and Platforms to Look Out for in 2022](https://hackernoon.com/5-innovative-nft-projects-and-platforms-to-look-out-for-in-2022?source=rss)
+- [What Characteristics does a Team Need to Get to the &quot;Super Bowl&quot; Level?](https://hackernoon.com/what-characteristics-does-a-team-need-to-get-to-the-super-bowl-level?source=rss)
+- [Emancipation Starts in the Kitchen](https://hackernoon.com/emancipation-starts-in-the-kitchen?source=rss)
+- [How we Increased User Conversion From Free to Paying by 7.6x](https://hackernoon.com/how-we-increased-user-conversion-from-free-to-paying-by-76x?source=rss)
+- [The Top 10 Digital Transformation Trends in Manufacturing for 2022](https://hackernoon.com/the-top-10-digital-transformation-trends-in-manufacturing-for-2022?source=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
