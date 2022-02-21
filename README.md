@@ -13,11 +13,11 @@
 
 #### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [5 Innovative NFT Projects and Platforms to Look Out for in 2022](https://hackernoon.com/5-innovative-nft-projects-and-platforms-to-look-out-for-in-2022?source=rss)
-- [What Characteristics does a Team Need to Get to the &quot;Super Bowl&quot; Level?](https://hackernoon.com/what-characteristics-does-a-team-need-to-get-to-the-super-bowl-level?source=rss)
-- [Emancipation Starts in the Kitchen](https://hackernoon.com/emancipation-starts-in-the-kitchen?source=rss)
-- [How we Increased User Conversion From Free to Paying by 7.6x](https://hackernoon.com/how-we-increased-user-conversion-from-free-to-paying-by-76x?source=rss)
-- [The Top 10 Digital Transformation Trends in Manufacturing for 2022](https://hackernoon.com/the-top-10-digital-transformation-trends-in-manufacturing-for-2022?source=rss)
+- [SQLAlchemy is a Better Way to Run Queries](https://hackernoon.com/sqlalchemy-is-a-better-way-to-run-queries?source=rss)
+- [Last Remaining COVID Restriction in England Could be Gone in Weeks](https://hackernoon.com/last-remaining-covid-restriction-in-england-could-be-gone-in-weeks?source=rss)
+- [How Useful are Certificates from Coursera, edX, and Udemy?](https://hackernoon.com/how-useful-are-certificates-from-coursera-edx-and-udemy?source=rss)
+- [Building Links for Your Business: 4 Expert Tips](https://hackernoon.com/building-links-for-your-business-4-expert-tips?source=rss)
+- [Why Outsourcing Core Business Functions Can Be Dangerous](https://hackernoon.com/why-outsourcing-core-business-functions-can-be-dangerous?source=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
