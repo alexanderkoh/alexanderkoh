@@ -1,9 +1,17 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alex B!
----
+<img src="https://media.giphy.com/media/xT9Igoe79R16unU7cc/giphy.gif" width="100px"> 
+
 ![github_follow](https://img.shields.io/github/followers/alexanderkoh?style=social)
 ![twitter_follow](https://img.shields.io/twitter/follow/alexanderbkoh?style=social)
 ![donate_keybase](https://img.shields.io/keybase/xlm/atl4st)
----
+
+# @alexanderkoh
+> Program manager, designer, and developer based in New York 🗽
+
+
+#### &#x1f4c8; My GitHub Stats
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderkoh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 🧰 Toolbox
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -11,21 +19,9 @@
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 
-#### 📚 Latest Articles
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderkoh&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### 📚 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<!--
-**alexanderkoh/alexanderkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
