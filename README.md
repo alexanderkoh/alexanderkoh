@@ -10,7 +10,7 @@
 
 #### &#x1f4c8; My GitHub Stats
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderkoh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderkoh&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🧰 Toolbox
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
@@ -19,7 +19,7 @@
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderkoh&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderkoh&hide=java,html,css&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 📚 My Latest Articles
