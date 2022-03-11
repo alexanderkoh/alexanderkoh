@@ -24,5 +24,5 @@
 
 #### 📚 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Token Economics](https://medium.com/@alexanderbkoh/understanding-token-economics-d5047a4d5e7a?source=rss-5b03b4621400------2)
+- [Understanding Token Economics](https://medium.com/coinmonks/understanding-token-economics-d5047a4d5e7a?source=rss-5b03b4621400------2)
 <!-- BLOG-POST-LIST:END -->
