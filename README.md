@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/xT9Igoe79R16unU7cc/giphy.gif" width="100px"> 
-
 ![github_follow](https://img.shields.io/github/followers/alexanderkoh?style=social)
 ![twitter_follow](https://img.shields.io/twitter/follow/alexanderbkoh?style=social)
 ![donate_keybase](https://img.shields.io/keybase/xlm/atl4st)
